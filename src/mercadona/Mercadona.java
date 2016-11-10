@@ -105,6 +105,7 @@ public class Mercadona {
         }
         System.out.println("Graduación Media de nuestras bebidas alcoholicas: "+(suma/cont));
     }
+
 //----------------------------------------------------------------------------------------------------
 //----------------------------------------------------------------------------------------------------
     public static void main(String[] args) {
